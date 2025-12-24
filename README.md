@@ -104,9 +104,9 @@ I am a dedicated and detail-oriented individual with a passion for continuous le
 
 ##  Connect with Me  
 <p align="left">
-  <a href="https://github.com/Archsunan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sabariyuhendhran/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sabariyuhendhran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Archsunan"><img src=""/></a>
+  <a href="https://www.linkedin.com/in/sabariyuhendhran/"><img src=""/></a>
+  <a href="mailto:sabariyuhendhran@gmail.com"><img src=""/></a>
 </p>  
 
 ---
