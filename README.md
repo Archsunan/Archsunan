@@ -79,7 +79,7 @@ I am a dedicated and detail-oriented individual with a passion for continuous le
 |----------|----------------|------------|
 | **LeetCode** | 150+ | 1526|
 | **CodeChef** | 350+ | 1343 |
-| **Codeforces** | 45+ | - |
+| **Codeforces** | 45+ | 1128 |
 
 ###  Achievements**
 - **1st Place** - CodeDebugg (PSG-Art-college)
