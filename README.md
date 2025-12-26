@@ -73,13 +73,13 @@ I am a dedicated and detail-oriented individual with a passion for continuous le
 
 ##  DSA & Problem Solving Achievements
 
-###  **1207+ Problems Solved Across Platforms**
+###  **650+ Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 200+ | Knight Rank |
-| **CodeChef** | 300+ | 1201 |
-| **GeeksForGeeks** | 65+ | - |
+| **LeetCode** | 150+ | 1526|
+| **CodeChef** | 350+ | 1343 |
+| **Codeforces** | 45+ | - |
 
 ###  Achievements**
 - **1st Place** - CodeDebugg (PSG-Art-college)
@@ -104,9 +104,9 @@ I am a dedicated and detail-oriented individual with a passion for continuous le
 
 ##  Connect with Me  
 <p align="left">
-  <a href="https://github.com/Archsunan"><img src=""/></a>
-  <a href="https://www.linkedin.com/in/sabariyuhendhran/"><img src=""/></a>
-  <a href="mailto:sabariyuhendhran@gmail.com"><img src=""/></a>
+  <a href="https://github.com/Archsunan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/archsunan-s-b60028339/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kit27.am08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>  
 
 ---
