@@ -85,22 +85,6 @@ I am a dedicated and detail-oriented individual with a passion for continuous le
 - **1st Place** - CodeDebugg (PSG-Art-college)
 - **2nd Place** - Tech Hunt (PSG-Art-college
 
----
- 
-
----
-
-
-<!-- <div align="center"> -->
-
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=sabariyuhendh&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div> -->
-
----
-
-
----
 
 ##  Connect with Me  
 <p align="left">
