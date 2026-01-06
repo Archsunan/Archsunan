@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github.com/Archsunan/Archsunan/raw/main/banner.gif" alt="GitHub Banner" />
+  <img src="https://github.com/Archsunan/Archsunan/raw/main/banner1.gif" alt="GitHub Banner" />
 </p>
 
 
