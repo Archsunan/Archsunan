@@ -69,8 +69,6 @@ I am a dedicated and detail-oriented individual with a passion for continuous le
 <br>
 
 
-
-
 ##  DSA & Problem Solving Achievements
 
 ###  **650+ Problems Solved Across Platforms**
