@@ -17,8 +17,7 @@ jobs:
         with:
           github_user_name: Archsunan
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&snake=purple
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
