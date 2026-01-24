@@ -81,5 +81,9 @@ I am a dedicated and detail-oriented individual with a passion for continuous le
 </p>  
 
 ---
+## 📊 GitHub Metrics
+<p align="center">
+  <img src="https://github.com/Archsunan/Archsunan/blob/main/github-metrics.svg" />
+</p>
 
 <div align="center">
