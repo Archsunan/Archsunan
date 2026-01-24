@@ -84,7 +84,9 @@ I am a dedicated and detail-oriented individual with a passion for continuous le
 ###  Achievements**
 - **1st Place** - CodeDebugg (PSG-Art-college)
 - **2nd Place** - Tech Hunt (PSG-Art-college
-
+<p align="center">
+  <img src="https://github.com/Archsunan/Archsunan/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ##  Connect with Me  
 <p align="left">
