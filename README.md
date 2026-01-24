@@ -73,6 +73,36 @@ I am a dedicated and detail-oriented individual with a passion for continuous le
   <img src="https://github.com/Archsunan/Archsunan/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Archsunan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6" alt="GitHub Stats" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Archsunan&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" alt="Streak Stats" />
+
+<br/><br/>
+
+<a href="https://github.com/Archsunan">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Archsunan&theme=algolia" width="100%" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Archsunan&theme=algolia" width="31%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Archsunan&theme=algolia" width="31%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Archsunan&theme=algolia" width="31%" title="🦉 Productive Hours" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Archsunan&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=8B5CF6&line=22C55E&point=FFFFFF" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Archsunan&column=8&margin-w=15&margin-h=15&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues" />
+
+</div>
+
 ##  Connect with Me  
 <p align="left">
   <a href="https://github.com/Archsunan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
