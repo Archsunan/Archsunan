@@ -27,25 +27,25 @@ I am a dedicated and detail-oriented individual with a passion for continuous le
 ##  Technical Skills  
 
 
-### 💻 Programming Languages
+###  Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&theme=dark" />
 </p>
 
 
-### 🎨 Frontend Development
+###  Frontend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
 </p>
 
 
-### ⚙️ Backend & Frameworks
+###  Backend & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
 
-### 🗄️ Databases & Tools
+###  Databases & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
 </p>
@@ -73,7 +73,7 @@ I am a dedicated and detail-oriented individual with a passion for continuous le
   <img src="https://github.com/Archsunan/Archsunan/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -111,7 +111,7 @@ I am a dedicated and detail-oriented individual with a passion for continuous le
 </p>  
 
 ---
-## 📊 GitHub Metrics
+##  GitHub Metrics
 <p align="center">
   <img src="https://github.com/Archsunan/Archsunan/blob/main/github-metrics.svg" />
 </p>
