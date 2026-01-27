@@ -65,9 +65,6 @@ I am a dedicated and detail-oriented individual with a passion for continuous le
 ###  Achievements**
 - **1st Place** - CodeDebugg (PSG-Art-college)
 - **2nd Place** - Tech Hunt (PSG-Art-college
-<img src="https://github-readme-stats.vercel.app/api?username=Archsunan&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archsunan&layout=compact&theme=dark" />
-
 
 <p align="center">
   <img src="https://github.com/Archsunan/Archsunan/blob/output/github-contribution-grid-snake-dark.svg" />
